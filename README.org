@@ -2,3 +2,4 @@
 很多时候，我会被所谓的内核架构给弄迷糊了。我很难讲得清楚，不同的架构究竟意味着什么。正好，近段时间学习AURIX的芯片反复看到了手册中提到了架构，由此学习一下TriCore的内核架构。
 ** 学习笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/127937194][1527_AURIX_TriCore内核架构开篇与架构概述]]
+- [[https://blog.csdn.net/grey_csdn/article/details/127957167][1529_AURIX_TriCore内核架构之编程模型]]
