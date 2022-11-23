@@ -5,3 +5,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/127957167][1529_AURIX_TriCore内核架构之编程模型]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127990356][1530_AURIX_TriCore内核架构_通用寄存器以及系统寄存器]]
 - [[https://blog.csdn.net/grey_csdn/article/details/127993461][1531_AURIX_TriCore内核架构_任务以及函数]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128010737][1532_AURIX_TriCore内核架构_中断]] 
