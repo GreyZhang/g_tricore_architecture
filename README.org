@@ -7,3 +7,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/127993461][1531_AURIX_TriCore内核架构_任务以及函数]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128010737][1532_AURIX_TriCore内核架构_中断]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128031136][1533_AURIX_TriCore内核架构_指令集信息]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128065353][1536_AURIX_TriCore内核架构_Trap]]
