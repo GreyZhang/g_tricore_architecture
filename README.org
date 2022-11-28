@@ -9,3 +9,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128031136][1533_AURIX_TriCore内核架构_指令集信息]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128065353][1536_AURIX_TriCore内核架构_Trap]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128086875][1537_AURIX_TriCore内核架构_存储完整性错误的缓解]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128087336][1538_AURIX_TriCore内核架构_地址映射以及存储配置]]
