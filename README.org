@@ -12,3 +12,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/128087336][1538_AURIX_TriCore内核架构_地址映射以及存储配置]]
 - [[https://blog.csdn.net/grey_csdn/article/details/128087914][1539_AURIX_TriCore内核架构_临时保护系统]]
 - [[https://greyzhang.blog.csdn.net/article/details/128091098][1540_AURIX_TriCore内核架构_FPU]]
+- [[https://blog.csdn.net/grey_csdn/article/details/128106924][1541_AURIX_TriCore内核架构_内核调试控制器CDC]]
